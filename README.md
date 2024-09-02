@@ -5,7 +5,7 @@
 
 [Lab 03:]() Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-[Lab 04:]() Implement Linear Regression using Boston Housing Data
+[Lab 04:](https://github.com/Madhumitha-Reddy/AIML-2025/blob/main/lab4.ipynb) Implement Linear Regression using Boston Housing Data
 
 [Lab 05:]() Implement Logistic Regression using Titanic Ship Data
 
